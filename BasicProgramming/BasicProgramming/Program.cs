@@ -22,7 +22,6 @@ namespace BasicProgramming
             int bb, tb, bil;
             double bmi;
             string name;
-ait  
 
             switch (option)
             {
